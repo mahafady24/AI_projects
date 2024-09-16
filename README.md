@@ -13,8 +13,19 @@ _  Features:_
   Flask (Python)
   Google Translate API
   HTML/CSS/JavaScript
+  
+**2. Chatbot for FAQs**
+A simple Chatbot for FAQs that answers frequently asked questions using Natural Language Processing (NLP) techniques.
 
-**2. Personal Portfolio Website**
+_  Features:_  
+  Uses NLTK or SpaCy for understanding and generating responses.
+  Pre-defined dataset of FAQs and answers.
+  Technologies Used:
+  
+  Python
+  NLTK/SpaCy (NLP libraries)
+  
+**3. Personal Portfolio Website**
 The Personal Portfolio Website project showcases skills, projects, and resume using modern web technologies.
 
 _  Features:_
@@ -26,16 +37,7 @@ _  Features:_
   CSS
   JavaScript
 
-**3. Chatbot for FAQs**
-A simple Chatbot for FAQs that answers frequently asked questions using Natural Language Processing (NLP) techniques.
 
-_  Features:_  
-  Uses NLTK or SpaCy for understanding and generating responses.
-  Pre-defined dataset of FAQs and answers.
-  Technologies Used:
-  
-  Python
-  NLTK/SpaCy (NLP libraries)
 
 **4. Object Detection and Tracking**
 A real-time Object Detection and Tracking system using deep learning models.
