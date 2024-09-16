@@ -25,7 +25,7 @@ _  Features:_
   Python
   NLTK/SpaCy (NLP libraries)
   
-**3. Personal Portfolio Website**
+**3. Music Generation with AI**
 The Personal Portfolio Website project showcases skills, projects, and resume using modern web technologies.
 
 _  Features:_
